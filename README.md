@@ -59,7 +59,7 @@ $.post('https://example.com', {
 ```
 Here's a screenshot of the sort of structure that you may get back:
 
- ![Screenshot](resources/screenshots/Example-responses.png)
+ ![Screenshot](resources/screenshots/Example-Responses.png?raw=true)
 
 You can use this JSON response however you want.
 
