@@ -48,7 +48,7 @@ I've just stuck some jQuery code on here because everybody knows how to use jQue
 
 Obviously if you use Axios or Guzzle or cURL, you can adjust to suit. This isn't particularly useful code…
 
-```
+```js
 $.post('https://example.com', {
     updatenotifierkey: '33a6306c-a1e7-2656-4daa-76689d017c36',
     action: 'UpdateNotifier/getUpdates'
