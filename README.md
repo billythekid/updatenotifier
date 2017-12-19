@@ -66,8 +66,11 @@ You can use this JSON response however you want.
 ## Changelog
 
 ####19/Dec/2017 0.0.2
-Fixed javascript bug
 
-####14/Nov/2017 - initial release
+* Fixed javascript bug
+
+####14/Nov/2017 0.0.1
+
+* initial release
 
 Brought to you by [Billy Fagan](https://billyfagan.co.uk)
