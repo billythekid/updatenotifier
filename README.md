@@ -73,4 +73,4 @@ You can use this JSON response however you want.
 
 * initial release
 
-Brought to you by [Billy Fagan](https://billyfagan.co.uk)
+Brought to you by [FortyTwo Studio](https://fortytwo.studio)
