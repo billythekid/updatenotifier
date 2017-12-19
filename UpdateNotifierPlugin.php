@@ -53,7 +53,7 @@ class UpdateNotifierPlugin extends BasePlugin
      */
     public function getDocumentationUrl()
     {
-        return 'https://github.com/billythekid/updatenotifier/blob/master/README.md';
+        return 'https://github.com/fortytwostudio/updatenotifier/blob/master/README.md';
     }
 
     /**
@@ -63,7 +63,7 @@ class UpdateNotifierPlugin extends BasePlugin
      */
     public function getReleaseFeedUrl()
     {
-        return 'https://raw.githubusercontent.com/billythekid/updatenotifier/master/releases.json';
+        return 'https://raw.githubusercontent.com/fortytwostudio/updatenotifier/master/releases.json';
     }
 
     /**

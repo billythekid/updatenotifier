@@ -1,5 +1,5 @@
 {
-	"name": "billythekid/updatenotifier",
+	"name": "fortytwostudio/updatenotifier",
 	"description": "Plugin to let you know if your CMSes/plugins need updated",
 	"type": "craft-plugin",
 	"license": "MIT",
