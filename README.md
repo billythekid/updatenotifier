@@ -65,6 +65,9 @@ You can use this JSON response however you want.
 
 ## Changelog
 
-14 Nov 2017 - initial release
+####19/Dec/2017 0.0.2
+Fixed javascript bug
+
+####14/Nov/2017 - initial release
 
 Brought to you by [Billy Fagan](https://billyfagan.co.uk)

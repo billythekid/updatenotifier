@@ -1,5 +1,13 @@
 [
     {
+        "version": "0.0.2",
+        "downloadUrl": "https://github.com/billythekid/updatenotifier/archive/master.zip",
+        "date": "2017-12-19T15:48:40.000Z",
+        "notes": [
+            "[Fixed] Dashboard Modals were unclickable"
+        ]
+    },
+    {
         "version": "0.0.1",
         "downloadUrl": "https://github.com/billythekid/updatenotifier/archive/master.zip",
         "date": "2017-11-07T16:12:40.033Z",

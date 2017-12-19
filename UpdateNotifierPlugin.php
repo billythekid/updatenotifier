@@ -73,7 +73,7 @@ class UpdateNotifierPlugin extends BasePlugin
      */
     public function getVersion()
     {
-        return '0.0.1';
+        return '0.0.2';
     }
 
     /**

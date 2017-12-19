@@ -112,12 +112,14 @@
   })();
 
   var generatorButton = document.getElementById('settings-secret-key-generator');
-  generatorButton.addEventListener('click', function () {
-      var keyInput = document.getElementById('settings-secretKey');
+  if (generatorButton) { //because for some reason this stuff loads on every backend screen!?
+      generatorButton.addEventListener('click', function () {
+          var keyInput = document.getElementById('settings-secretKey');
 //      var keySpan = document.getElementById('settings-secret-key');
-      keyInput.value = Guid.newGuid();
+          keyInput.value = Guid.newGuid();
 //      keySpan.innerText = keyInput.value;
-  });
+      });
+  }
 
   {% endset %}
 </script>
